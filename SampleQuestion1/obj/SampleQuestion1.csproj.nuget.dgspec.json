@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aykut\\source\\repos\\SampleQuestion1\\SampleQuestion1.csproj": {}
+    "C:\\GitHub\\aykutbastug\\Eğitim Soruları\\SampleQuestion1\\SampleQuestion1\\SampleQuestion1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aykut\\source\\repos\\SampleQuestion1\\SampleQuestion1.csproj": {
+    "C:\\GitHub\\aykutbastug\\Eğitim Soruları\\SampleQuestion1\\SampleQuestion1\\SampleQuestion1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aykut\\source\\repos\\SampleQuestion1\\SampleQuestion1.csproj",
+        "projectUniqueName": "C:\\GitHub\\aykutbastug\\Eğitim Soruları\\SampleQuestion1\\SampleQuestion1\\SampleQuestion1.csproj",
         "projectName": "SampleQuestion1",
-        "projectPath": "C:\\Users\\aykut\\source\\repos\\SampleQuestion1\\SampleQuestion1.csproj",
+        "projectPath": "C:\\GitHub\\aykutbastug\\Eğitim Soruları\\SampleQuestion1\\SampleQuestion1\\SampleQuestion1.csproj",
         "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aykut\\source\\repos\\SampleQuestion1\\obj\\",
+        "outputPath": "C:\\GitHub\\aykutbastug\\Eğitim Soruları\\SampleQuestion1\\SampleQuestion1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
