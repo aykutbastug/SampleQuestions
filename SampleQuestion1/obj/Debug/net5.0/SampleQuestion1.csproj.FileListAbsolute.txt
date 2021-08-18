@@ -1,0 +1,16 @@
+C:\Users\aykut\source\repos\SampleQuestion1\bin\Debug\net5.0\SampleQuestion1.exe
+C:\Users\aykut\source\repos\SampleQuestion1\bin\Debug\net5.0\SampleQuestion1.deps.json
+C:\Users\aykut\source\repos\SampleQuestion1\bin\Debug\net5.0\SampleQuestion1.runtimeconfig.json
+C:\Users\aykut\source\repos\SampleQuestion1\bin\Debug\net5.0\SampleQuestion1.runtimeconfig.dev.json
+C:\Users\aykut\source\repos\SampleQuestion1\bin\Debug\net5.0\SampleQuestion1.dll
+C:\Users\aykut\source\repos\SampleQuestion1\bin\Debug\net5.0\ref\SampleQuestion1.dll
+C:\Users\aykut\source\repos\SampleQuestion1\bin\Debug\net5.0\SampleQuestion1.pdb
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.csproj.AssemblyReference.cache
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.AssemblyInfoInputs.cache
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.AssemblyInfo.cs
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.dll
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\ref\SampleQuestion1.dll
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.pdb
+C:\Users\aykut\source\repos\SampleQuestion1\obj\Debug\net5.0\SampleQuestion1.genruntimeconfig.cache
