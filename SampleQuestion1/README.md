@@ -1,9 +1,9 @@
 ## Amaç
-Program yazarken bazı durumlarda belli şartların sağlanıp sağlanmadığını kontrol ederek, koşulların sağlanma durumlarına göre farklı işlemler yaptırmaya ihtiyaç duyabiliriz. Bu gibi durumlarda if-else kontrol yapısı kullanılır. Bu sorumuzda If-Else yapısının nasıl kullanıldığını açıklıyoruz.
+Program yazarken bazı durumlarda belli şartların sağlanıp sağlanmadığını kontrol ederek, koşulların sağlanma durumlarına göre farklı işlemler yaptırmaya ihtiyaç duyabiliriz. Bu gibi durumlarda **if-else** kontrol yapısı kullanılır. Bu sorumuzda **If-Else** yapısının nasıl kullanıldığını açıklıyoruz.
 
 
 ## Gereksinim
-Bu örneği anlayabilmek için C#.NET hakkında ön bilgiye sahip olmanız yeterlidir. Örneğin içerisinde if-else yapısı kullanılmıştır. Konuyla ilgili detaylı kullanımı anlatan eğitim videomuza **[buradan](http://www.google.com/)** erişebilirsiniz.
+Bu örneği anlayabilmek için **C#.NET** hakkında ön bilgiye sahip olmanız yeterlidir. Örneğin içerisinde **if-else** yapısı kullanılmıştır. Konuyla ilgili detaylı kullanımı anlatan eğitim videomuza **[buradan](http://www.google.com/)** erişebilirsiniz.
 
 
 ## Ön Bilgi
