@@ -1,0 +1,16 @@
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\bin\Debug\net5.0\SampleQuestion2.exe
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\bin\Debug\net5.0\SampleQuestion2.deps.json
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\bin\Debug\net5.0\SampleQuestion2.runtimeconfig.json
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\bin\Debug\net5.0\SampleQuestion2.runtimeconfig.dev.json
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\bin\Debug\net5.0\SampleQuestion2.dll
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\bin\Debug\net5.0\ref\SampleQuestion2.dll
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\bin\Debug\net5.0\SampleQuestion2.pdb
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.AssemblyInfo.cs
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.dll
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\ref\SampleQuestion2.dll
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.pdb
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.genruntimeconfig.cache
+C:\GitHub\aykutbastug\Eğitim Soruları\Questions\SampleQuestion2\obj\Debug\net5.0\SampleQuestion2.csproj.AssemblyReference.cache
