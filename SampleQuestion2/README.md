@@ -1,5 +1,5 @@
 ## Amaç
-Program yazarken bazı durumlarda belirli diziler içinde sırayla gezinmeye ihtiyaç duyarız. Bu gibi durumlarda **foreach** döngü yapısını kullanabiliriz. Bu sorumuzda da foreach döngü yapısının nasıl kullanıldığını açıklıyacağız.
+Program yazarken bazı durumlarda belirli diziler içinde sırayla gezinmeye ihtiyaç duyarız. Bu gibi durumlarda **foreach** döngü yapısını kullanabiliriz. Bu sorumuzda da foreach yapısını ugyulayacağız.
 
 
 ## Gereksinim
@@ -13,7 +13,7 @@ E-Ticaret sitelerindeki online tahsilat ekranlarında müşteri tarafından giri
 
 
 ## Soru
-E-Ticaret platformumuzun online ödeme ekranında müşterinin girdiği kart numarasını alarak, ilgili karta en fazla kaç taksit imkanı sağladığını öğrenip müşteriye dönen kod bloğundaki eksik kısmı tamamlayaınız.
+E-Ticaret platformumuzun online ödeme ekranında müşterinin girdiği kart numarasını alarak, ilgili karta en fazla kaç taksit imkanı sağladığını öğrenip müşteriye dönen kod bloğundaki eksik kısmı tamamlayınız.
 
 
 ## Derleme ve Test
