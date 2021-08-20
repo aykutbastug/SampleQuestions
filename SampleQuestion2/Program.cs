@@ -22,21 +22,8 @@ namespace SampleQuestion2
 
             Console.WriteLine("Kartınızın ilk 6 hanesini giriniz.");
             string binNumarasi = Console.ReadLine();
-            int maksimumTaksitSayisi = 0;
 
-            foreach (var number in binNumbers)
-            {
-                if (number.Bin == binNumarasi)
-                {
-                    maksimumTaksitSayisi = number.MaksimumTaksitSayisi;
-                    break;
-                }
-            }
-
-            if (maksimumTaksitSayisi == 0)
-                Console.WriteLine($"Kredi kartınızın taksit imkanı bulunmamaktadır");
-            else
-                Console.WriteLine($"Kredi kartınıza {maksimumTaksitSayisi} taksit imkanı sunulmaktadır.");
+            // BUraya gerekli kod bloğunu yazınız.
 
             Console.ReadKey();
         }
